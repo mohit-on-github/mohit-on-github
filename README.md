@@ -30,7 +30,7 @@
 
 ### My GitHub Stats
 
-![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohit-on-github&show_icons=true&theme=gruvbox&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
+[![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohit-on-github&show_icons=true&theme=gruvbox&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My GitHub Streak
 
