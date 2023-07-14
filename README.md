@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohit Kumar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit-on-github&label=Profile%20views&color=0e75b6&style=flat" alt="view-counter" /> </p>
 
-- 🔭 I’m currently  **looking for a job.**
+- 🔭 JAVA Fullstack Developer  **@Wipro**
 - 🎓 Graduated from Sir M. Visvesvaraya Institute of Technology
 
 <h3 align="center">Connect with me</h3>
