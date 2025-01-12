@@ -45,6 +45,9 @@
 
 [![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohit-on-github&show_icons=true&theme=gruvbox&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
+<!---
+
 ### My GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mohit-on-github&theme=dark)](https://git.io/streak-stats)
+-->
