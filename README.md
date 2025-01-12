@@ -47,4 +47,4 @@
 
 ### My GitHub Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohit-on-github&theme=gruvbox)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mohit-on-github&theme=dark)](https://git.io/streak-stats)
