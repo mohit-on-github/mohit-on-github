@@ -38,7 +38,7 @@
 <a href="https://swagger.io/" target="_blank"><img src="https://img.icons8.com/ios-filled/100/34C759/api-settings.png" alt="Swagger" width="50" height="50"/></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://img.icons8.com/color/144/000000/docker.png" alt="Docker" width="50" height="50"/></a>
 <a href="https://www.jenkins.io/" target="_blank"><img src="https://img.icons8.com/color/144/000000/jenkins.png" alt="Jenkins" width="50" height="50"/></a>
-<a href="https://maven.apache.org/" target="_blank"><img src="https://img.icons8.com/color/144/000000/apache-maven.png" alt="Maven" width="50" height="50"/></a>
+<a href="https://maven.apache.org/" target="_blank"><img src="https://maven.apache.org/images/maven-logo-black-on-white.png" alt="Maven" width="50" height="50"/></a>
 <a href="https://kubernetes.io/" target="_blank"><img src="https://img.icons8.com/color/144/000000/kubernetes.png" alt="Kubernetes" width="50" height="50"/></a>
 <a href="https://junit.org/" target="_blank"><img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="JUnit" width="50" height="50"/></a>
 <a href="https://projectlombok.org/" target="_blank"><img src="https://avatars.githubusercontent.com/u/45949248" alt="Lombok" width="50" height="50"/></a>
