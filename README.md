@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohit Kumar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit-on-github&label=Profile%20views&color=0e75b6&style=flat" alt="view-counter" /> </p>
 
-- 🔭 Generative AI Associate and Java Backend Developer **@Wipro**
+- 🔭 Java Backend Developer **@Wipro**
 - 🌱 Exploring Generative AI technologies and advanced development tools
 - 🎓 Graduated from Sir M. Visvesvaraya Institute of Technology, Bengaluru
 - 📫 Contact me at **official.mohitkr19@gmail.com**
