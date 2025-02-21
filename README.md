@@ -16,7 +16,7 @@
 <a href="https://www.hackerrank.com/mht19kr97" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="hackerrank" height="40" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/officialmn0so/" target="blank"><img src="https://img.icons8.com/color/144/000000/GeeksforGeeks.png" alt="gfg" height="40" width="40" /></a>
 <!-- <a href="https://leetcode.com/u/mohit-on-leetcode/" target="blank"><img src="https://avatars.githubusercontent.com/u/41718343" alt="leetcode" height="40" width="40" /></a> -->
-  <a href="https://www.codewars.com/users/mohit-on-github" target="blank"><img src="[https://avatars.githubusercontent.com/u/41718343](https://img.icons8.com/?size=512&id=gDJDJJ1MCGmG&format=png)" alt="codewars" height="40" width="40" /></a> -->
+<!-- <a href="https://www.codewars.com/users/mohit-on-github" target="blank"><img src="https://img.icons8.com/?id=gDJDJJ1MCGmG" alt="codewars" height="40" width="40" /></a> -->
 </p>
 ---
 
